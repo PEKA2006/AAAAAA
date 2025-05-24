@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/anana/static/css/main.28b1e965.css",
+    "main.js": "/anana/static/js/main.da31a3be.js",
+    "static/js/453.c64e55c3.chunk.js": "/anana/static/js/453.c64e55c3.chunk.js",
+    "static/media/hero-banner.jpg": "/anana/static/media/hero-banner.f4410ccdea3f12ba8fe5.jpg",
+    "static/media/aboutImage.jpg": "/anana/static/media/aboutImage.0720de4c9ddfc168502a.jpg",
+    "index.html": "/anana/index.html",
+    "main.28b1e965.css.map": "/anana/static/css/main.28b1e965.css.map",
+    "main.da31a3be.js.map": "/anana/static/js/main.da31a3be.js.map",
+    "453.c64e55c3.chunk.js.map": "/anana/static/js/453.c64e55c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28b1e965.css",
+    "static/js/main.da31a3be.js"
+  ]
+}
